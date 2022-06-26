@@ -1,6 +1,7 @@
 .product-card {
     background-color: var(--white);
     border-radius: 12px;
+    box-shadow: -1px 3px 18px 5px rgba(128, 128, 128, 0.276);
 }
 
 .product-img {
